@@ -1,0 +1,240 @@
+{
+        "status": "ok",
+        "totalResults": 965,
+        "articles": [
+        {
+        "source": {
+        "id": null,
+        "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Cooper",
+        "title": "The Morning After: Musk sued for sexual harassment",
+        "description": "A number of former SpaceX engineers are suing Elon Musk for sexual harassment, retaliation and creating a hostile workplace environment\r\n. The suit comes in the wake of a blockbuster WSJ report that lifted the lid\r\n on Musk’s treatment of SpaceX employees. Th…",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69440ea2-1b80-4b1c-a96c-1cf33f38f0b4",
+        "urlToImage": null,
+        "publishedAt": "2024-06-13T11:15:01Z",
+        "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+        "source": {
+        "id": "wired",
+        "name": "Wired"
+        },
+        "author": "Makena Kelly",
+        "title": "A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step",
+        "description": "Frank McCourt, the real estate mogul and former LA Dodgers owner, wants to go all in on the Decentralized Social Networking Protocol.",
+        "url": "https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/",
+        "urlToImage": "https://media.wired.com/photos/6669f3ae8067e63c5c4c2d0b/191:100/w_1280,c_limit/politics_lab_frank_mccourt_buy_tiktok.jpg",
+        "publishedAt": "2024-06-13T11:30:00Z",
+        "content": "By migrating TikTok over to DSNP, Project Liberty says it could scale quickly, making it more competitive against similar protocols. Project Liberty has migrated more than 875,000 out of 20 million M… [+3824 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "iPadOS 18 Brings a New Customizable Tab Bar and Sidebar UI to Apps",
+        "description": "In iPadOS 18, Apple has redesigned the tab bar experience in apps like Clock, Apple TV, and Apple News. Previously, tabs sat at the bottom of the standard app interface. When in portrait orientation, tab bars now sit at the top of the app interface to be clos…",
+        "url": "https://www.macrumors.com/2024/06/13/ipados-18-tab-bar-apps/",
+        "urlToImage": "https://images.macrumors.com/t/_OCt8z6VhnaRMVoEhTnPLKsjtTM=/2821x/article-new/2024/06/tab-bar-ipados-18.jpg",
+        "publishedAt": "2024-06-13T10:05:09Z",
+        "content": "In iPadOS 18, Apple has redesigned the tab bar experience in apps like Clock, Apple TV, and Apple News. Previously, tabs sat at the bottom of the standard app interface. When in portrait orientation,… [+1256 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "iOS 18's New Game Mode Makes iPhones Faster and More Responsive",
+        "description": "With iOS 18, Apple is adding Game Mode to iPhone. A similar Game Mode was added to macOS Sonoma last year, and the same performance-enhancing features apply, according to Apple.\n\n\n\n\n\nWhen enabled, Game Mode optimizes the gaming experience by giving the game t…",
+        "url": "https://www.macrumors.com/2024/06/13/ios-18-game-mode-faster-iphone/",
+        "urlToImage": "https://images.macrumors.com/t/TikgxKoJtjsVCN9pSPdFwveMRyI=/1920x/article-new/2024/06/ios-18-game-mode.jpg",
+        "publishedAt": "2024-06-13T09:10:02Z",
+        "content": "With iOS 18, Apple is adding Game Mode to iPhone. A similar Game Mode was added to macOS Sonoma last year, and the same performance-enhancing features apply, according to Apple.\r\nWhen enabled, Game M… [+747 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "visionOS 2: Spatial Personas Can Touch Fingers, High Five, Fist Bump Each Other With Visual and Audio Feedback",
+        "description": "First introduced in April, spatial Personas in Apple Vision Pro are designed to feel as if they are in the same physical space, and to enhance the experience, the lifelike avatars will soon be able to interact directly with each other using some new gestures …",
+        "url": "https://www.macrumors.com/2024/06/13/visionos-1-2-spatial-persona-interactive-gestures/",
+        "urlToImage": "https://images.macrumors.com/t/w7qSNUn9UuzP7dWAp7FtAObTb-I=/1600x/article-new/2024/04/Spatial-Persona-Apple.jpg",
+        "publishedAt": "2024-06-13T12:29:29Z",
+        "content": "First introduced in April, spatial Personas in Apple Vision Pro are designed to feel as if they are in the same physical space, and to enhance the experience, the lifelike avatars will soon be able t… [+1288 chars]"
+        },
+        {
+        "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+        },
+        "author": "Shubhangi Goel",
+        "title": "Apple isn't paying OpenAI for access to ChatGPT: report",
+        "description": "The partnership isn't expected to generate meaningful revenue for either company right now,  people familiar with the deal said.",
+        "url": "https://www.businessinsider.com/apple-wont-pay-openai-for-chatgpt-in-its-devices-report-2024-6",
+        "urlToImage": "https://i.insider.com/666a6f7de079049018188747?width=1200&format=jpeg",
+        "publishedAt": "2024-06-13T08:04:32Z",
+        "content": "OpenAI CEO Sam Altman and Apple CEO Tim Cook.Anadolu / Doug Peters - PA Images / Getty\r\n<ul><li>Apple will use OpenAI's ChatGPT, but neither party will pay the other, per Bloomberg.</li><li>People fa… [+2904 chars]"
+        },
+        {
+        "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+        },
+        "author": "Kwan Wei Kevin Tan",
+        "title": "Elon Musk's beef with Apple may have less to do with his misgivings about OpenAI — and more to do with his own ambitions",
+        "description": "Gaining access to Apple's over one billion iPhone users would be a boon for any AI startup, including Musk's xAI.",
+        "url": "https://www.businessinsider.com/elon-musk-beef-with-apple-not-really-about-openai-deal-2024-6",
+        "urlToImage": "https://i.insider.com/666a7002e079049018188753?width=1200&format=jpeg",
+        "publishedAt": "2024-06-13T09:01:27Z",
+        "content": "Tesla CEO Elon Musk (left) and Apple CEO Tim Cook (right).Frederic J. Brown/AFP via Getty Images; Justin Sullivan via Getty Images\r\n<ul><li>Elon Musk scorned Apple and OpenAI after the companies reve… [+3685 chars]"
+        },
+        {
+        "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+        },
+        "author": "Erin Snodgrass",
+        "title": "Sam Altman is actually winning despite all the OpenAI drama",
+        "description": "OpenAI CEO Sam Altman stays winning even amid a torrent of bad publicity surrounding the artificial intelligence startup.",
+        "url": "https://www.businessinsider.com/sam-altman-is-actually-winning-despite-all-the-openai-drama-2024-6",
+        "urlToImage": "https://i.insider.com/666a46e9e079049018188532?width=1200&format=jpeg",
+        "publishedAt": "2024-06-13T08:24:02Z",
+        "content": "Justin Sullivan/Getty Images;Chelsea Jia Feng/BI\r\n<ul><li>OpenAI is facing a wave of controversy over safety concerns and its commitment to responsible AI.</li><li>But CEO Sam Altman keeps racking up… [+4140 chars]"
+        },
+        {
+        "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+        },
+        "author": "Kwan Wei Kevin Tan",
+        "title": "Undaunted by fresh scandals, Elon Musk is celebrating what he says is an early triumph in the Tesla shareholder vote",
+        "description": "Tesla shareholders voted on Musk's pay package as well as a proposal to incorporate the EV giant in Texas on Thursday.",
+        "url": "https://www.businessinsider.com/elon-musk-celebrate-early-triumph-tesla-shareholder-vote-2024-6",
+        "urlToImage": "https://i.insider.com/666aa578e079049018188921?width=1200&format=jpeg",
+        "publishedAt": "2024-06-13T07:53:39Z",
+        "content": "Elon Musk.ODD ANDERSEN/Getty Images\r\n<ul><li>The final results of Tesla's shareholder vote aren't out yet but Elon Musk is celebrating already.</li><li>Musk said the proposals on his pay deal and to … [+2663 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "ReadWrite"
+        },
+        "author": "Sophie Atkinson",
+        "title": "Apple will give OpenAI exposure in new deal, not cash – reports",
+        "description": "Apple announced the much anticipated OpenAI agreement at the annual developer’s conference this week but kept pretty quiet about the… Continue reading Apple will give OpenAI exposure in new deal, not cash – reports\nThe post Apple will give OpenAI exposure in …",
+        "url": "https://readwrite.com/apple-will-give-openai-exposure-in-new-deal-not-cash-reports/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Apple-WWDC24-Apple-Intelligence-hero-240610_big.jpg.large_2x.jpg",
+        "publishedAt": "2024-06-13T09:38:51Z",
+        "content": "Apple announced the much anticipated OpenAI agreement at the annual developers conference this week but kept pretty quiet about the terms of the deal.\r\nThe partnership will see ChatGPT being integrat… [+2410 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "ReadWrite"
+        },
+        "author": "Suswati Basu",
+        "title": "Japan targets Apple and Google with app store competition law",
+        "description": "Japan’s parliament has passed a new law aimed at improving competition in smartphone app stores. The legislation will prevent major… Continue reading Japan targets Apple and Google with app store competition law\nThe post Japan targets Apple and Google with ap…",
+        "url": "https://readwrite.com/japan-law-competition-app-stores-apple-google/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/Japan-passes-law-to-boost-competition-in-app-stores-targeting-Apple-and-Google.png",
+        "publishedAt": "2024-06-13T12:28:28Z",
+        "content": "Japan’s parliament has passed a new law aimed at improving competition in smartphone app stores. The legislation will prevent major tech companies like Apple and Google from blocking third-party comp… [+2392 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "ReadWrite"
+        },
+        "author": "Sam Shedden",
+        "title": "USA spending more on semiconductor production in 2024 than the previous three decades combined",
+        "description": "As part of its ongoing battle with China for global supremacy in the semiconductor industry, the United States government has… Continue reading USA spending more on semiconductor production in 2024 than the previous three decades combined\nThe post USA spendin…",
+        "url": "https://readwrite.com/usa-spending-more-on-semiconductor-production-in-2024-than-the-previous-three-decades-combined/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/06/a-stunning-high-resolution-3d-render-of-a-semicond-HipVf_SLQuO6wQQvoWTIQA-iXUL9_qYQ2WoFAwqs1VMDQ.jpeg",
+        "publishedAt": "2024-06-13T11:41:21Z",
+        "content": "As part of its ongoing battle with China for global supremacy in the semiconductor industry, the United States government has been pouring money into domestic chip manufacturing at an unprecedented r… [+2414 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Alberto Martín",
+        "title": "Apple no paga a OpenAI y viceversa por integrar ChatGPT en Apple Intelligence: ¿quién gana y pierde?",
+        "description": "El anuncio de la integración de ChatGPT de OpenAI en Apple Intelligence a nivel sistema se ha comparado con la de Google en los primeros años del iPhone. El mejor producto del mercado integrado en uno de los sistemas operativos que mayores trabas pone a este …",
+        "url": "http://hipertextual.com/2024/06/apple-no-paga-a-openai",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/OpenAI.jpg",
+        "publishedAt": "2024-06-13T08:57:17Z",
+        "content": "El anuncio de la integración de ChatGPT de OpenAI en Apple Intelligence a nivel sistema se ha comparado con la de Google en los primeros años del iPhone. El mejor producto del mercado integrado en un… [+2868 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Gabriel Erard",
+        "title": "El Galaxy Watch FE es oficial: así es la respuesta de Samsung al Apple Watch SE",
+        "description": "Después de varios rumores y de un anuncio que supuestamente se haría en julio, Samsung ha presentado formalmente el Galaxy Watch FE. Se trata de su nuevo modelo de entrada al mundo de los relojes inteligentes con Wear OS y una tabla de especificaciones bastan…",
+        "url": "http://hipertextual.com/2024/06/samsung-galaxy-watch-fe-es-oficial",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/Galaxy-Watch-FE-Advanced-Health-Monitoring_dl1-scaled.jpg",
+        "publishedAt": "2024-06-13T12:30:27Z",
+        "content": "Después de varios rumores y de un anuncio que supuestamente se haría en julio, Samsung ha presentado formalmente el Galaxy Watch FE. Se trata de su nuevo modelo de entrada al mundo de los relojes int… [+3446 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Quelian Sanz",
+        "title": "La función más oculta de iOS 18 es una tontería verdaderamente útil",
+        "description": "¿Tu iPhone se suele apagar mucho por falta de batería? Pues hay buenas noticias para ti: iOS 18 incluye una función que te dará una pequeña ventaja cuando tu dispositivo esté apagado y no se pueda encender por falta de energía. Apple no la anunció en la pasad…",
+        "url": "http://hipertextual.com/2024/06/la-funcion-mas-oculta-de-ios-18-es-una-tonteria-verdaderamente-util",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/iOS-18-iPhone.jpg",
+        "publishedAt": "2024-06-13T11:02:56Z",
+        "content": "¿Tu iPhone se suele apagar mucho por falta de batería? Pues hay buenas noticias para ti: iOS 18 incluye una función que te dará una pequeña ventaja cuando tu dispositivo esté apagado y no se pueda en… [+2218 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Aglaia Berlutti",
+        "title": "‘Presunto inocente’, crítica: Jake Gyllenhaal encuentra su personaje ideal",
+        "description": "En 1990, uno de los éxitos más inesperados del verano fue Presunto inocente, una película de suspense en la que Alan J. Pakula demostró sus mejores habilidades. Basada en la novela del mismo de Scott Turow, la premisa seguía al fiscal de Chicago Rozat Sabich …",
+        "url": "http://hipertextual.com/2024/06/presunto-inocente-critica-jake-gyllenhaal-encuentra-su-personaje-ideal",
+        "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/06/rsz_presumed-scaled.jpg",
+        "publishedAt": "2024-06-13T10:56:15Z",
+        "content": "En 1990, uno de los éxitos más inesperados del verano fue Presunto inocente, una película de suspense en la que Alan J. Pakula demostró sus mejores habilidades. Basada en la novela del mismo de Scott… [+5877 chars]"
+        },
+        {
+        "source": {
+        "id": null,
+        "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "Ya sabemos lo que paga Apple a OpenAI por usar ChatGPT: cero unidades de euro",
+        "description": "La llegada de Apple Intelligence parecía prever una llamativa alianza entre Apple y OpenAI. Al final la cosa fue bastante más descafeinada que lo que muchos imaginaban, pero quedaba una duda importante. ¿Había algún tipo de contraprestación económica? ¿Pagaba…",
+        "url": "https://www.xataka.com/robotica-e-ia/sabemos-que-paga-apple-a-openai-usar-chatgpt-cero-unidades-euro",
+        "urlToImage": "https://i.blogs.es/3977fd/chat1/840_560.jpeg",
+        "publishedAt": "2024-06-13T12:01:35Z",
+        "content": "La llegada de Apple Intelligence parecía prever una llamativa alianza entre Apple y OpenAI. Al final la cosa fue bastante más descafeinada que lo que muchos imaginaban, pero quedaba una duda importan… [+3177 chars]"
+        }
+    ]
+}
