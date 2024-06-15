@@ -6,7 +6,7 @@ export class InnerItem extends Component {
     let {title, description, imageUrl, newsUrl} = this.props
     return (
       <div className='my-3'>
-        <div className="card" style={{width: "18rem"}}>
+        <div className="card">
             <img src={!imageUrl?"https://www.livemint.com/lm-img/img/2024/06/12/1600x900/stock_1718196461403_1718196461768.jpg":imageUrl} className="card-img-top" alt="..."/>
             <div className="card-body">
               <h5 className="card-title">{title}...</h5>
