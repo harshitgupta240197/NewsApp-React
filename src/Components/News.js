@@ -22,17 +22,19 @@ export class News extends Component {
   };
 
   constructor(props) {
+    
     super(props);
     console.log("This is a constructor from News Component");
     this.state = {
       articles: [],
-      loading: false,
+      loading: true,
       page: 1,
-      totalResults: 0
+      totalResults: 0,
     };
     document.title = `${this.capitalizeFirstLetter(
       this.props.category
     )} - FastNews`;
+    
   }
 
   // async updateNews(){
@@ -45,16 +47,20 @@ export class News extends Component {
   // }
 
   async componentDidMount() {
+    this.props.setProgress(10);
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=e7d1d2c5858c4c7faa390b0f4603c541&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
+    this.props.setProgress(30);
     let parsedData = await data.json();
     console.log(parsedData);
+    this.props.setProgress(70);
     this.setState({
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
       loading: false,
     });
+    this.props.setProgress(100);
   }
 
   handlePrevClick = async () => {
@@ -112,7 +118,7 @@ export class News extends Component {
   fetchMoreData = async () => {
     this.setState({ page: this.state.page + 1 });
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=e7d1d2c5858c4c7faa390b0f4603c541&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-    this.setState({ loading: true });
+    // this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
     console.log(parsedData);
@@ -130,7 +136,7 @@ export class News extends Component {
         <h1 className="text-center" style={{ margin: "35px 0px" }}>
           Top Headlines - {this.capitalizeFirstLetter(this.props.category)}
         </h1>
-        {/* {this.state.loading && <Spinner />} */}
+        {this.state.loading && <Spinner />}
         <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
