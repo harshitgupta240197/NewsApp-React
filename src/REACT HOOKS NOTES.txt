@@ -1,0 +1,26 @@
+REACT HOOKS:
+
+Definition:
+
+1. Features of Class based components in function based components.
+2. It allows you to use state and other React features without writing a class.
+3. Hooks are the functions which "HOOK INTO" react state and lifecycle features
+   from function components.
+
+Commonly used React Hooks:
+
+1. useState:
+        
+        Used to update the state and set the initial value of the state.
+
+2. useEffect:
+
+        Used to perform side effects.
+
+3. useContext:
+
+        Used for prop drilling.
+
+4. useRef:
+
+        Returns a mutable reference object which has a .current property.
